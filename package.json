@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Crawler data sis",
+  "main": "app.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/nguyenhuongvo/sis_crawler.git"
+  },
+  "author": "nguyenhuongvo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "puppeteer": "^1.1.1"
+  }
+}
